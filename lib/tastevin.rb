@@ -1,0 +1,5 @@
+require 'tastevin/agent'
+require 'tastevin/cli'
+require 'tastevin/config'
+require 'tastevin/errors'
+require 'tastevin/version'
